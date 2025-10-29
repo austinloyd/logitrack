@@ -30,6 +30,19 @@ pnpm dev
 
 Visit `http://localhost:3000` to access the application.
 
+## 🚀 Deployment
+
+### Vercel Deployment
+
+This project is configured for easy deployment to Vercel. Follow these steps:
+
+1. Push your code to a Git repository (GitHub, GitLab, or Bitbucket)
+2. Import the repository in your Vercel dashboard
+3. Configure environment variables in Vercel
+4. Deploy!
+
+For detailed instructions, see [VERCEL_DEPLOYMENT.md](./VERCEL_DEPLOYMENT.md)
+
 ## 📋 Features
 
 ### 🏠 Home Page
